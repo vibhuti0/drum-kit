@@ -3,8 +3,8 @@ This is a simple drum kit web application that allows users to play drums by pre
 
 
 
-Check out the live demo of the Project :http://127.0.0.1:5501/CSS-My%20site/gymsite/dicee/drum/index.html
+Check out the live demo of the Project:http://127.0.0.1:5501/CSS-My%20site/gymsite/dicee/drum/index.html
 
 
 
-To use the drum kit, simply open the project in your web browser and start pressing the corresponding keys on your keyboard to play the different drum sounds.
+To use the drum kit, simply open the project in your web browser and start pressing the corresponding keys on your keyboard to play the different drum sounds..
