@@ -3,7 +3,7 @@ This is a simple drum kit web application that allows users to play drums by pre
 
 
 
-Check out the live demo of the Project:http://127.0.0.1:5501/CSS-My%20site/gymsite/dicee/drum/index.html
+Check out the live demo of the Project :http://127.0.0.1:5501/CSS-My%20site/gymsite/dicee/drum/index.html
 
 
 
